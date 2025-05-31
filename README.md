@@ -1,4 +1,4 @@
-# Welcome to React Native Movie App Buld with Expo, Redux 👋
+# Movie React Native App Built with Expo, Redux, NativeWind 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
